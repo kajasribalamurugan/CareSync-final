@@ -1,0 +1,3 @@
+[functions.ai-summary]
+verify_jwt = true
+entrypoint = "./functions/ai-summary/index.ts"
